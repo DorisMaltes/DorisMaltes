@@ -42,7 +42,6 @@ Hi! I'm **Doris Maltes** 👋
 A passionate iOS & web developer from 🇲🇽 Mexico, currently exploring the world of tech and creativity.
 
 - 🎓 Computer Systems Engineering student  
-- 🍎 Apple Developer Academy @ Italy  
 - 💻 Love building apps with **SwiftUI**, **React**, and a touch of ✨design  
 - 🦎 Axolotl fan & color lover  
 - 🌱 Currently learning more about **AI** and cloud technologies
