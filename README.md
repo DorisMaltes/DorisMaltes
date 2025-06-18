@@ -1,6 +1,6 @@
 # Hi, I'm Doris Maltes! 👋
 
-<h1 align="center"> ♡ Computer Systems Engineer ♡</h1>
+<h1 align="center">Computer Systems Engineer 𐙚</h1>
 
 <p align="center">
   <img src="./este.gif" width="600"/>
