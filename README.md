@@ -12,6 +12,7 @@
 - 🔧 Currently building AI + chat tools
 - 🚀 Looking for international internship opportunities
 
+<!---
 <h3 align="center">Tech Stack ◡̈ </h3>
 <p align="center">
   <img src="./iloveimg-resized-2/react.jpg" />
@@ -26,6 +27,7 @@
   <img src="./iloveimg-resized-2/html.jpg"/>
   <img src="./iloveimg-resized-2/git.jpg" />
 </p>
+-->
 
 
 
