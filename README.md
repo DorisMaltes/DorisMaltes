@@ -14,15 +14,15 @@
 
 <h3 align="center">Tech Stack ◡̈ </h3>
 <p align="center">
-  <img src="./iloveimg-resized/react.jpg" />
-  <img src="./iloveimg-resized/firebase.jpg" />
-  <img src="./iloveimg-resized/javascript.jpg" />
-  <img src="./iloveimg-resized/figma.jpg"/>
-  <img src="./iloveimg-resized/java.jpg" />
-  <img src="./iloveimg-resized/python.jpg"/>
-  <img src="./iloveimg-resized/swift.jpg"/>
-  <img src="./iloveimg-resized/html.jpg"/>
-  <img src="./iloveimg-resized/git.jpg" />
+  <img src="./iloveimg-resized-2/react.jpg" />
+  <img src="./iloveimg-resized-2/firebase.jpg" />
+  <img src="./iloveimg-resized-2/javascript.jpg" />
+  <img src="./iloveimg-resized-2/figma.jpg"/>
+  <img src="./iloveimg-resized-2/java.jpg" />
+  <img src="./iloveimg-resized-2/python.jpg"/>
+  <img src="./iloveimg-resized-2/swift.jpg"/>
+  <img src="./iloveimg-resized-2/html.jpg"/>
+  <img src="./iloveimg-resized-2/git.jpg" />
 </p>
 
 
