@@ -14,9 +14,15 @@
 
 <h3 align="center">Tech Stack ◡̈ </h3>
 <p align="center">
-  <img src="./este.gif" width="200"/>
-  <img src="./este.gif" width="200"/>
-  <img src="./este.gif" width="200"/>
-  <img src="./este.gif" width="200"/>
+  <img src="./react.jpg" width="200"/>
+  <img src="./firebase.jpg" width="200"/>
+  <img src="./javascript.jpg" width="200"/>
+  <img src="./figma.jpg" width="200"/>
+  <img src="./java.jpg" width="200"/>
+  <img src="./python.jpg" width="200"/>
+  <img src="./swift.jpg" width="200"/>
+  <img src="./html.jpg" width="200"/>
+  <img src="./git.jpg" width="200"/>
+  <img src="./react.jpg" width="200"/>
 </p>
 
