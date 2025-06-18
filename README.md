@@ -12,6 +12,7 @@
 - 🔧 Currently building AI + chat tools
 - 🚀 Looking for international internship opportunities
 
+
 <!---
 <h3 align="center">Tech Stack ◡̈ </h3>
 <p align="center">
@@ -29,13 +30,24 @@
 </p>
 -->
 
-
-
-
-
 <h3 align="center">Tech Stack ◡̈ </h3>
 <p align="center">
   <img src="./stackgif.gif" width="1000" height="400"/>
 
 </p>
+
+## 💫 About Me
+
+Hi! I'm **Doris Maltes** 👋  
+A passionate iOS & web developer from 🇲🇽 Mexico, currently exploring the world of tech and creativity.
+
+- 🎓 Computer Systems Engineering student  
+- 🍎 Apple Developer Academy @ Italy  
+- 💻 Love building apps with **SwiftUI**, **React**, and a touch of ✨design  
+- 🦎 Axolotl fan & color lover  
+- 🌱 Currently learning more about **AI** and cloud technologies
+
+> “Code is poetry, and I love writing beautiful things.”
+
+Let's connect and build something magical! 💫
 
