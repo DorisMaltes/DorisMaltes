@@ -25,3 +25,9 @@
   <img src="./git.jpg" width="80"/>
 </p>
 
+<h3 align="center">Tech Stack ◡̈ </h3>
+<p align="center">
+  <img src="./stackgif.jpg" width="800"/>
+
+</p>
+
