@@ -18,12 +18,16 @@
   <img src="./iloveimg-resized-2/firebase.jpg" />
   <img src="./iloveimg-resized-2/javascript.jpg" />
   <img src="./iloveimg-resized-2/figma.jpg"/>
+</p>
+<p align="center">
   <img src="./iloveimg-resized-2/java.jpg" />
   <img src="./iloveimg-resized-2/python.jpg"/>
   <img src="./iloveimg-resized-2/swift.jpg"/>
   <img src="./iloveimg-resized-2/html.jpg"/>
   <img src="./iloveimg-resized-2/git.jpg" />
 </p>
+
+
 
 
 
