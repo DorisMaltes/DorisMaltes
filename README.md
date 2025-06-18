@@ -11,3 +11,12 @@
 - 💡 I love combining design and code
 - 🔧 Currently building AI + chat tools
 - 🚀 Looking for international internship opportunities
+
+<h2 align="center">Tech Stack ◡̈ </h2>
+<p align="center">
+  <img src="./este.gif" width="200"/>
+  <img src="./este.gif" width="200"/>
+  <img src="./este.gif" width="200"/>
+  <img src="./este.gif" width="200"/>
+</p>
+
