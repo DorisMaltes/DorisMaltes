@@ -1,6 +1,6 @@
-# Holiiii ! 👋
+# Hi, I'm Doris Maltes ୨ৎ! 👋
 
-<h1 align="center">୨ৎ Doris Maltes ୨ৎ</h1>
+<h1 align="center"> Doris Maltes ୨ৎ</h1>
 
 <p align="center">
   <img src="./este.gif" width="600"/>
