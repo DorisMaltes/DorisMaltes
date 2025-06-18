@@ -31,7 +31,7 @@
 
 <h3 align="center">Tech Stack ◡̈ </h3>
 <p align="center">
-  <img src="./Techstack.gif" width="1000" height="400"/>
+  <img src="./Techstack.gif" />
 
 </p>
 
