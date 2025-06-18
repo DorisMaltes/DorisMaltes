@@ -13,7 +13,7 @@
 - 🚀 Looking for international internship opportunities
 
 
-<!---
+
 <h3 align="center">Tech Stack ◡̈ </h3>
 <p align="center">
   <img src="./iloveimg-resized-2/react.jpg" />
@@ -28,14 +28,14 @@
   <img src="./iloveimg-resized-2/html.jpg"/>
   <img src="./iloveimg-resized-2/git.jpg" />
 </p>
--->
 
+<!---
 <h3 align="center">Tech Stack ◡̈ </h3>
 <p align="center">
   <img src="./stackgif.gif" width="1000" height="400"/>
 
 </p>
-
+-->
 ## 💫 About Me
 
 Hi! I'm **Doris Maltes** 👋  
