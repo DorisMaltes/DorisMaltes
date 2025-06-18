@@ -1,4 +1,4 @@
-# Hi, I'm Doris Maltes ୨ৎ! 👋
+# Hi, I'm Doris Maltes! 👋
 
 <h1 align="center"> ♡ Computer Systems Engineer ♡</h1>
 
