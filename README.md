@@ -12,7 +12,7 @@
 - 🔧 Currently building AI + chat tools
 - 🚀 Looking for international internship opportunities
 
-<h2 align="center">Tech Stack ◡̈ </h2>
+<h3 align="center">Tech Stack ◡̈ </h3>
 <p align="center">
   <img src="./este.gif" width="200"/>
   <img src="./este.gif" width="200"/>
