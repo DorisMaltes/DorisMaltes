@@ -1,11 +1,9 @@
-# Hi, I'm Doris Maltes ୨ৎ! 👋
+# Holiiii ! 👋
 
-<img src="./este.gif" alt="Doris Banner" width="600"/>
-
-<h1 align="center">✨ Doris Maltes ✨</h1>
+<h1 align="center">୨ৎ Doris Maltes ୨ৎ</h1>
 
 <p align="center">
-  <img src="./IMG_0654.gif" width="400"/>
+  <img src="./IMG_0654.gif" width="600"/>
 </p>
 
 <h3>📱 iOS Developer | 🎨 UX Lover | 🌎 Mexican | 🦎 Axolotl Enthusiast</h3>
