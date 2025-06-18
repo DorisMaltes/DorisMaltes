@@ -3,7 +3,7 @@
 <h2 align="center">Computer Systems Engineer ⋆.𐙚 ̊</h2>
 
 <p align="center">
-  <img src="./este.gif" width="600"/>
+  <img src="./GifparaGitHub.gif" width="600"/>
 </p>
 
 <h3>📱 iOS Developer | 🎨 UX Lover | 🌎 Mexican | 🦎 Axolotl Enthusiast</h3>
@@ -29,13 +29,13 @@
   <img src="./iloveimg-resized-2/git.jpg" />
 </p>
 
-<!---
 <h3 align="center">Tech Stack ◡̈ </h3>
 <p align="center">
-  <img src="./stackgif.gif" width="1000" height="400"/>
+  <img src="./Techstack.gif" width="1000" height="400"/>
 
 </p>
--->
+
+
 ## 💫 About Me
 
 Hi! I'm **Doris Maltes** 👋  
