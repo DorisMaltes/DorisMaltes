@@ -51,8 +51,8 @@ A passionate iOS & web developer from 🇲🇽 Mexico, currently exploring the w
 Let's connect and build something magical! 💫
 
 ### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 
